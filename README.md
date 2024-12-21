@@ -40,7 +40,7 @@ Este é um projeto para gerenciar informações de pacientes, incluindo cálculo
 ## 🚀 **Como Executar o Projeto**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/aparecida-nutricao.git
+   git clone https://github.com/felipetaua/aparecida-nutricao.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 3. Utilize as funcionalidades de listagem, cálculo de IMC, adição de pacientes e filtros.
@@ -77,8 +77,8 @@ Este é um projeto para gerenciar informações de pacientes, incluindo cálculo
 ---
 
 ## 🖋 **Créditos**
-Criado por: **Tauã Felipe Rocha Amaro**  
-Curso: **Técnico em Desenvolvimento de Sistemas (TDS) - 2024**
+Criado por: **Tauã Felipe**  
+Curso: **Alura 2023 - Elementos JS**
 
 --- 
 
